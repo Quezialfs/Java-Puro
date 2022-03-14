@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="one.digital.innovation.gof.strategy.Comportamento"/>
+    <fullyQualifiedTypeName name="one.digital.innovation.gof.strategy.ComportamentoDefensivo"/>
+    <fullyQualifiedTypeName name="one.digital.innovation.gof.strategy.ComportamentoNormal"/>
+    <fullyQualifiedTypeName name="one.digital.innovation.gof.strategy.ComportamentoAgressivo"/>
+    <fullyQualifiedTypeName name="one.digital.innovation.gof.strategy.Robo"/>
+    <fullyQualifiedTypeName name="subsistema1.crm.CrmService"/>
+    <fullyQualifiedTypeName name="subsistema2.cep.CepApi"/>
+    <fullyQualifiedTypeName name="one.digital.innovation.gof.facade.Facade"/>
+</qualifiedTypeNameHistroy>
